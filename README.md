@@ -9,7 +9,7 @@
 ## Usage
 - Head to the website https://www.onlinegdb.com/online_c++_compiler#
 - Choose the compiler language as C++(Turbo C)
-- Copy the code in and paste it in main.cpp after erasing the contents present in main.cpp
+- Copy the code in AI-Tic-Tac-Toe.cpp and paste it in main.cpp after erasing the contents present in main.cpp
 - Run the program
 
 ## EXITING the Program
