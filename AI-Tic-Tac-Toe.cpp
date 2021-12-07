@@ -1,6 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-#include<ctype.h>
+#include<ctype.h>ilvfif
 #include<stdio.h>
 #include<dos.h>
 #include<string.h>
